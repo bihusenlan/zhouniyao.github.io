@@ -1,0 +1,32 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <div align=center><a href="/niming-resume/"> <img class="img-circle" src="/niming-img/me/me2.png" alt="倪明本人"></a></div>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">主页</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/niming-resume/">中文简历</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/niming-resume/English-resume/">英文简历</a>
+      
+     {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    </nav>
+
+    <p>niming &copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

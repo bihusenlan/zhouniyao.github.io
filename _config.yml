@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:           ' ' 
+tagline:          '计算机硕士'
+#description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      <marquee scrollamount="10" ><a href="/niming-resume/" target="_blank">倪明，毕业于云南师范大学，获 <b>计算机应用技术 硕士</b>学位。主要研究方向为计算机图形学、OpenGL ES、虚拟现实、Android游戏。目前使用平台<b> Unity3D</b>，语言 <b>C#</b>.</a></marquee>
+url:              https://zhouniyao.github.io/
+baseurl:          /
+
+author:
+  name:           'Ni Ming'
+  url:            https://zhouniyao.github.io/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/zhouniyao
