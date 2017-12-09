@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: niming's resume
+---
 
 <!-- 更新内容-->
 
