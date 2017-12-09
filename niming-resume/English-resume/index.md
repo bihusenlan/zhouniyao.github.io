@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: space
 title: niming's resume
 ---
 
