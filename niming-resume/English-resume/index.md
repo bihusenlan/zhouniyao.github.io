@@ -12,7 +12,7 @@ h4 {letter-spacing: 1px}
 p{line-height:2em;}
 </style>
 <h1 class="intro" align="center">Ni Ming's Resume<h1><br>
-<h3><img src="/niming-img/icom/education.png" alt="我">Education</h3>
+<h3><img src="/niming-img/icon/education.png" alt="我">Education</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
 
 <div><div style="float: left;">&nbsp;&nbsp;&nbsp;Yunnan Normal University</div><div style="float: right">Sep 2015 – Jun2018&nbsp;&nbsp;&nbsp;</div>
@@ -26,7 +26,7 @@ p{line-height:2em;}
 <div><div style="float: left;">&nbsp;&nbsp;&nbsp;Faculty of Management Sciences </div><div style="float: right">He Fei&nbsp;&nbsp;&nbsp;</div>
 
 <br>
-<h3><img src="/niming-img/icom/skill.png" alt="我">Skill</h3>
+<h3><img src="/niming-img/icon/skill.png" alt="我">Skill</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
 <h4>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Master the basic architecture and operating principles of the Unity3D engine, well know the Unity3D development environment and common components</h4>
@@ -62,11 +62,11 @@ p{line-height:2em;}
 <br>
  <h4><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;您可以点击这里<a href="https://github.com/zhouniyao">Github</a>，查看我在校期间学习、编写代码。当然，您也可以查看我的<a href="/niming-resume/">（最新的）中文简历</a>。</p></h4>
 <br>
-<h3><img src="/niming-img/icom/computer.png" alt="我">Work Experience</h3>
+<h3><img src="/niming-img/icon/computer.png" alt="我">Work Experience</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
 <br><br>
 
-<h3><img src="/niming-img/icom/tel.png" alt="我">Contact</h3>
+<h3><img src="/niming-img/icon/tel.png" alt="我">Contact</h3>
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
 <h4><p>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can contact me with email or phone number if you want to get in touch and I am looking forward to seeing you as much as possible.</p></h4>
