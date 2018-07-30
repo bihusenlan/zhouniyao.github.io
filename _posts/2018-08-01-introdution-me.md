@@ -8,7 +8,7 @@ p{line-height:2em;}
 <h4><p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;倪明，1986年12月出生于安徽无为，云南师范大学<STRONG>计算机应用技术 硕士研究生</STRONG>。
 主要研究方向为<b>计算机图形学、DirectX、OpenGL ES</b>，目前使用平台有<STRONG> Unity3D / Unreal Engine4</STRONG>，语言 <STRONG>C#、C++</STRONG>.
-在校期间，获编程大赛3等奖，编写过多部手机App及VR作品，硕士毕业论文题为《基于Unity3D的场景合并的研究与实现》。<br>
+在校期间，获编程大赛3等奖，编写过多部手机App及VR作品，硕士毕业论文题为《基于Unity3D引擎的大场景无缝拼接技术的研究与实现》。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;酷爱编程，正在寻找Unity3D游戏开发工作。</p></h4>
 <br>
 <img src="/niming-img/icon/skill.png" alt="我">
