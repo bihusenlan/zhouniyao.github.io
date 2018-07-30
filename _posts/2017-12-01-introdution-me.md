@@ -2,7 +2,7 @@
 h4 {letter-spacing: 3px}
 p{line-height:2em;}
 </style>
-<h1 class="intro">求全职：Unity3D游戏开发<h1>
+<h1 class="intro">求全职：U3D开发工程师<h1>
 <img src="/niming-img/icon/info.png" alt="我">
 <hr style="height:1px;border:none;border-top:1px solid #555555;" />
 <h4><p>
